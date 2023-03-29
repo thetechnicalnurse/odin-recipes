@@ -1,5 +1,5 @@
 # odin-recipies
-This is my first project of an open source coding cirriculum called The Odion Project.
+This is my first project of an open source coding cirriculum called The Odin Project.
 
 Here, I intend to display my recently learned HTML basics that include:
 -proper html structure (boilerplate),
